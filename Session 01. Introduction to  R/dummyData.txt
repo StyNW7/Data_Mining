@@ -1,0 +1,4 @@
+name,nim,score
+stanley,2702217125,100
+visella,2172172121,90
+Nathaniel,212192121,80
