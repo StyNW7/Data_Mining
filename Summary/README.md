@@ -1,3 +1,3 @@
-# Data Mining Qualification
+# Data Mining Summary
 
-This directory contain my Qualification at Data Mining Subjects
+This directory contain summary from every topics at Data Mining Subjects
