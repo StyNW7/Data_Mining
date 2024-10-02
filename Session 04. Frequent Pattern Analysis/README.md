@@ -5,5 +5,5 @@
 <ul>
   <li>Apriori</li>
   <li>FP Growth</li>
-  <li>FP Growth</li>
+  <li>Association Rule</li>
 </ul>
